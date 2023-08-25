@@ -3,7 +3,7 @@
 	"namespace": "4ewbakka",
 	"version_number": "1.0.0",
 	"description": "Adds character from game 'Enter the Gungeon'",
-	"website_url": "https://github.com/BrotatoMods/Brotato-Example-Mods",
+	"website_url": "https://github.com/4ewbacca/Brotato_mods/tree/main/4ewbakka-Bullet_Character",
 	"dependencies": [],
 	"extra": {
 		"godot": {
