@@ -1,0 +1,17 @@
+{
+	"name": "Bullet_Character",
+	"namespace": "4ewbakka",
+	"version_number": "1.0.0",
+	"description": "Shows custom text on the title screen, after the current game version.",
+	"website_url": "https://github.com/4ewbacca/Brotato_mods",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["4ewebakka"],
+			"compatible_mod_loader_version": ["6.0.0"],
+			"compatible_game_version": ["1.0.0.3"],
+			"config_defaults": {}
+		}
+	}
+}
