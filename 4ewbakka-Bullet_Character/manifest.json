@@ -1,14 +1,14 @@
 {
-	"name": "Bullet_Character",
-	"namespace": "4ewbakka",
-	"version_number": "1.0.0",
-	"description": "Adds character from game 'Enter the Gungeon'",
-	"website_url": "https://github.com/4ewbacca/Brotato_mods/tree/main/4ewbakka-Bullet_Character",
+	"name": "MenuString",
+	"namespace": "Darkly77",
+	"version_number": "1.1.0",
+	"description": "Shows custom text on the title screen, after the current game version.",
+	"website_url": "https://github.com/BrotatoMods/Brotato-Example-Mods",
 	"dependencies": [],
 	"extra": {
 		"godot": {
 			"incompatibilities": [],
-			"authors": ["4ewbakka"],
+			"authors": ["Darkly77"],
 			"compatible_mod_loader_version": ["6.0.0"],
 			"compatible_game_version": ["1.0.0.3"],
 			"config_defaults": {}
